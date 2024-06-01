@@ -4,7 +4,7 @@
 
 
 
-![coding gif](https://github.com/cvishnuvardhan02/cvishnuvardhan02/assets/119833599/7b55a750-520c-43e9-9bbd-737e8a3dfa8b)
+<center> ![coding gif](https://github.com/cvishnuvardhan02/cvishnuvardhan02/assets/119833599/7b55a750-520c-43e9-9bbd-737e8a3dfa8b) </center>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvishnuvardhan02&label=Profile%20views&color=0e75b6&style=flat" alt="cvishnuvardhan02" /> </p>

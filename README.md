@@ -1,3 +1,4 @@
+![logo](https://github.com/cvishnuvardhan02/cvishnuvardhan02/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm C Vishnu Vardhan</h1>
 <h3 align="center">A passionate student of CSE(AIML) Department from India</h3>
 

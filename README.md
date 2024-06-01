@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm C Vishnu Vardhan</h1>
 <h3 align="center">A passionate student of CSE(AIML) Department from India</h3>
 
-<p allign="center">
- ![coding gif](https://github.com/cvishnuvardhan02/cvishnuvardhan02/assets/119833599/7b55a750-520c-43e9-9bbd-737e8a3dfa8b) 
-</p>
+![coding gif](https://github.com/cvishnuvardhan02/cvishnuvardhan02/assets/119833599/7b55a750-520c-43e9-9bbd-737e8a3dfa8b) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvishnuvardhan02&label=Profile%20views&color=0e75b6&style=flat" alt="cvishnuvardhan02" /> </p>
 

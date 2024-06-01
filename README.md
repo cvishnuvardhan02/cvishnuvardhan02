@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm C Vishnu Vardhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src+"https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952vbcz4dowh6a92qoesodaic89wk99inoewdr6y0n5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvishnuvardhan02&label=Profile%20views&color=0e75b6&style=flat" alt="cvishnuvardhan02" /> </p>
 
 <h3 align="left">Connect with me:</h3>

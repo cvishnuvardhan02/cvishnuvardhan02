@@ -229,7 +229,7 @@ After pushing this file, go to **Actions → Generate Snake Animation → Run wo
 <!--                   DEV QUOTE SECTION                     -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
 
@@ -250,7 +250,7 @@ After pushing this file, go to **Actions → Generate Snake Animation → Run wo
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-vishnu-vardhan-b3777b259)
-[![Instagram](https://img.shields.io/badge/Instagram-__vishnu20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__vishnu20)
+[![Instagram](https://img.shields.io/badge/Instagram-___vishnu22__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__vishnu20)
 [![YouTube](https://img.shields.io/badge/YouTube-cvishnuvardhan02-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/cvishnuvardhan02)
 [![CodePen](https://img.shields.io/badge/CodePen-c--vishnu--vardhan-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/c-vishnu-vardhan)
 [![HackerRank](https://img.shields.io/badge/HackerRank-cvishnuvardhan02-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/cvishnuvardhan02)
